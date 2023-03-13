@@ -1,0 +1,132 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@400;500&display=swap");
+.footer-nocta {
+  background-color: #8D8685;
+}
+
+.nav-links-footer {
+  padding-left: 2rem;
+  padding-top: 2rem;
+  font-size: 2rem;
+}
+
+.icons-footer {
+  height: 40px;
+}
+
+.social-media-footer {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.margin-social-media {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Oswald";
+}
+
+html {
+  font-size: 62.5%;
+  height: 100%;
+}
+
+ul {
+  list-style: none;
+}
+
+.back-negro {
+  background-color: #000000;
+}
+
+.white-font {
+  color: white;
+}
+
+header {
+  background-image: url(https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/nike-supreme-dunk-low-zapatillas-esquire-1614674382.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  text-align: center;
+}
+
+h1 {
+  font-size: 10rem;
+}
+
+.nav-bar-header {
+  background-color: #8D8685;
+  font-size: 2rem;
+}
+
+.nav-bar-header a:hover {
+  transform: scale(1.1);
+  color: #d42e12;
+}
+
+.nav-bar-header a {
+  text-decoration: none;
+  color: #000000;
+  text-shadow: 1px 1px;
+}
+
+iframe {
+  max-width: 100%;
+  height: 300px;
+}
+
+h2 {
+  font-size: 7rem;
+  text-align: center;
+}
+
+#parrafo-h2 {
+  font-size: 3.4rem;
+  margin: 30px;
+}
+
+.h3-inicio {
+  font-size: 7rem;
+  text-align: center;
+  background-image: url(https://images.theconversation.com/files/393210/original/file-20210401-13-z6rl6z.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop);
+  background-position: center;
+  height: 30rem;
+  padding-top: 50px;
+}
+
+.p-inicio {
+  font-size: 4rem;
+  padding: 49px;
+  text-justify: center;
+}
+
+#parrafo-video {
+  font-size: 4rem;
+  padding: 30px;
+}
+
+/* #creditos{
+    font-size: 16px;
+    padding-bottom: 20px; 
+} */
+.img-sizement {
+  width: 360px;
+  height: 500px;
+}
+
+.h3-accesorios {
+  width: 100%;
+  font-size: 50px;
+  text-align: center;
+  /* margin-top: 10rem; */
+}
+
+.lista-accesorios {
+  margin: 70px;
+  font-size: 30px;
+}
+
+/*# sourceMappingURL=main.css.map */
