@@ -131,8 +131,8 @@ h2 {
 }
 
 .pantalonesimg {
-  width: 450px;
-  height: 450px;
+  width: 400px;
+  height: 400px;
 }
 
 .divimgpantalones {
@@ -153,8 +153,8 @@ h2 {
 }
 
 .imgzapatillas {
-  width: 750px;
-  height: 500px;
+  width: 650px;
+  height: 400px;
   margin: 0px;
 }
 
@@ -166,7 +166,7 @@ h2 {
 
 .parrafo-h2-zapatillas {
   font-size: 3.4rem;
-  margin: 10px;
+  margin-top: 4rem;
   text-align: center;
 }
 
