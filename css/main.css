@@ -152,4 +152,22 @@ h2 {
   margin-top: 5rem;
 }
 
+.imgzapatillas {
+  width: 750px;
+  height: 500px;
+  margin: 0px;
+}
+
+.pimageneszapatillas {
+  font-size: 2.5rem;
+  text-align: center;
+  margin-top: 5rem;
+}
+
+.parrafo-h2-zapatillas {
+  font-size: 3.4rem;
+  margin: 10px;
+  text-align: center;
+}
+
 /*# sourceMappingURL=main.css.map */
